@@ -75,8 +75,3 @@ Each solution is self-contained and can be compiled and executed using any stand
 
 ## 🛠 About
 This repository is intended for practice and continuous improvement in **algorithmic thinking**, **problem-solving**, and **programming skills** using C and C++.
-
----
-
-## 📜 License
-This project is open-source and available under the [MIT License](LICENSE).
