@@ -6,7 +6,7 @@ All solutions are implemented in **C** and **C++**, focusing on clarity, efficie
 ---
 
 ## 📊 Progress
-- **Total problems solved:** 29
+- **Total problems solved:** 30
 
 ---
 
