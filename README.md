@@ -24,53 +24,57 @@ Each solution file follows the naming format: `<problemID>-<problem-title>.<exte
 
 ---
 
-## ✅ Solved Problems List
-
-The tables below list all problems solved. Click on the **Problem ID** to access the corresponding source file.
+## ✅ Solved Problems
 
 ### **C Solutions**
-| Problem ID | Title | File Link |
+| Problem ID | Title | Language |
 | :----------| :------| :---------- |
-| [1089] | Musical Loop | [Link](C/1089-musical-loop.c) |
-| [1169] | Grains in a Chess Board | [Link](C/1169-grains-in-a-chess-board.c) |
-| [1306] | Numbering Roads | [Link](C/1306-numbering-roads.c) |
-| [1351] | Supermarket | [Link](C/1351-supermarket.c) |
-| [1783] | Oh No! A Black Hole! | [Link](C/1783-oh-no-a-black-hole.c) |
-| [2059] | Odd, Even or Cheating | [Link](C/2059-odd-even-or-cheating.c) |
-| [2510] | Batmain | [Link](C/2510-batmain.c) |
-| [2655] | Dangerous Trail | [Link](C/2655-dangerous-trail.c) |
-| [2770] | Board Size | [Link](C/2770-board-size.c) |
-
-### **C++ Solutions**
-| Problem ID | Title | File Link |
-| :----------| :------| :---------- |
-| [1214] | Above Average | [Link](C++/1214-above-average.cpp) |
-| [1307] | All You Need is Love | [Link](C++/1307-all-you-need-is-love.cpp) |
-| [1309] | Monetary Formatting | [Link](C++/1309-monetary-formatting.cpp) |
-| [1310] | Profit | [Link](C++/1310-profit.cpp) |
-| [1421] | Tic-Tac-Toe | [Link](C++/1421-tic-tac-toe.cpp) |
-| [1551] | Complete Sentence | [Link](C++/1551-complete-sentence.cpp) |
-| [1555] | Functions | [Link](C++/1555-functions.cpp) |
-| [1764] | Itinerary of Santa Claus | [Link](C++/1764-itinerary-of-santa-claus.cpp) |
-| [1766] | The Dark Elf | [Link](C++/1766-the-dark-elf.cpp) |
-| [1767] | Santa Claus Bag | [Link](C++/1767-santa-claus-bag.cpp) |
-| [1911] | Help Girafales | [Link](C++/1911-help-girafales.cpp) |
-| [2232] | Pascal Triangle | [Link](C++/2232-pascal-triangle.cpp) |
-| [2250] | Tetris | [Link](C++/2250-tetris.cpp) |
-| [2338] | Morse | [Link](C++/2338-morse.cpp) |
-| [2446] | Troco | [Link](C++/2446-troco.cpp) |
-| [2533] | Internship | [Link](C++/2533-internship.cpp) |
-| [2631] | Making Pairs | [Link](C++/2631-making-pairs.cpp) |
-| [2663] | Phase | [Link](C++/2663-phase.cpp) |
-| [2850] | Polyglot Parrot | [Link](C++/2850-polyglot-parrot.cpp) |
-| [3147] | The Battle of the Five Armies | [Link](C++/3147-the-battle-of-the-five-armies.cpp) |
-| [3306] | Search and Change | [Link](C++/3306-search-and-change.cpp) |
+| [1089](C/1089-musical-loop.c) | Musical Loop | ![C](assets/badges/c.svg) |
+| [1169](C/1169-grains-in-a-chess-board.c) | Grains in a Chess Board | ![C](assets/badges/c.svg) |
+| [1306](C/1306-numbering-roads.c) | Numbering Roads | ![C](assets/badges/c.svg) |
+| [1351](C/1351-supermarket.c) | Supermarket | ![C](assets/badges/c.svg) |
+| [1783](C/1783-oh-no-a-black-hole.c) | Oh No! A Black Hole! | ![C](assets/badges/c.svg) |
+| [2059](C/2059-odd-even-or-cheating.c) | Odd, Even or Cheating | ![C](assets/badges/c.svg) |
+| [2510](C/2510-batmain.c) | Batmain | ![C](assets/badges/c.svg) |
+| [2655](C/2655-dangerous-trail.c) | Dangerous Trail | ![C](assets/badges/c.svg) |
+| [2770](C/2770-board-size.c) | Board Size | ![C](assets/badges/c.svg) |
 
 ---
 
-## 🚀 Usage
+### **C++ Solutions**
+| Problem ID | Title | Language |
+| :----------| :------| :---------- |
+| [1214](C++/1214-above-average.cpp) | Above Average | ![C++](assets/badges/cpp.svg) |
+| [1307](C++/1307-all-you-need-is-love.cpp) | All You Need is Love | ![C++](assets/badges/cpp.svg) |
+| [1309](C++/1309-monetary-formatting.cpp) | Monetary Formatting | ![C++](assets/badges/cpp.svg) |
+| [1310](C++/1310-profit.cpp) | Profit | ![C++](assets/badges/cpp.svg) |
+| [1421](C++/1421-tic-tac-toe.cpp) | Tic-Tac-Toe | ![C++](assets/badges/cpp.svg) |
+| [1551](C++/1551-complete-sentence.cpp) | Complete Sentence | ![C++](assets/badges/cpp.svg) |
+| [1555](C++/1555-functions.cpp) | Functions | ![C++](assets/badges/cpp.svg) |
+| [1764](C++/1764-itinerary-of-santa-claus.cpp) | Itinerary of Santa Claus | ![C++](assets/badges/cpp.svg) |
+| [1766](C++/1766-the-dark-elf.cpp) | The Dark Elf | ![C++](assets/badges/cpp.svg) |
+| [1767](C++/1767-santa-claus-bag.cpp) | Santa Claus Bag | ![C++](assets/badges/cpp.svg) |
+| [1911](C++/1911-help-girafales.cpp) | Help Girafales | ![C++](assets/badges/cpp.svg) |
+| [2232](C++/2232-pascal-triangle.cpp) | Pascal Triangle | ![C++](assets/badges/cpp.svg) |
+| [2250](C++/2250-tetris.cpp) | Tetris | ![C++](assets/badges/cpp.svg) |
+| [2338](C++/2338-morse.cpp) | Morse | ![C++](assets/badges/cpp.svg) |
+| [2446](C++/2446-troco.cpp) | Troco | ![C++](assets/badges/cpp.svg) |
+| [2533](C++/2533-internship.cpp) | Internship | ![C++](assets/badges/cpp.svg) |
+| [2631](C++/2631-making-pairs.cpp) | Making Pairs | ![C++](assets/badges/cpp.svg) |
+| [2663](C++/2663-phase.cpp) | Phase | ![C++](assets/badges/cpp.svg) |
+| [2850](C++/2850-polyglot-parrot.cpp) | Polyglot Parrot | ![C++](assets/badges/cpp.svg) |
+| [3147](C++/3147-the-battle-of-the-five-armies.cpp) | The Battle of the Five Armies | ![C++](assets/badges/cpp.svg) |
+| [3306](C++/3306-search-and-change.cpp) | Search and Change | ![C++](assets/badges/cpp.svg) |
 
-Each solution file is self-contained and designed to be compiled and executed using any standard **C** or **C++** compiler (e.g., GCC or G++). This repository is intended for continuous practice in **algorithmic thinking** and **problem-solving**.
+---
+
+## 🔍 How to Access Solutions
+
+Simply click on the **Problem ID** in the tables above to open the corresponding source code file.
+
+## 🚀 How to Use
+
+Each solution is self-contained and can be compiled and executed using any standard **C** or **C++** compiler.
 
 ---
 
@@ -78,8 +82,8 @@ Each solution file is self-contained and designed to be compiled and executed us
 
 ### License
 
-This repository is primarily for personal educational use. Please check the project's root for a `LICENSE` file if specific distribution terms apply.
+This repository is intended for personal practice and continuous improvement in **algorithmic thinking** and **problem-solving**. Please check the project's root for a `LICENSE` file if specific distribution terms apply.
 
 ### Contribution
 
-While this repository tracks personal progress, suggestions for bug fixes or alternative efficient solutions are welcome!
+While this repository tracks personal progress, suggestions for bug fixes or alternative efficient solutions are always welcome!
